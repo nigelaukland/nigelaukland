@@ -1,0 +1,20 @@
+{
+  "name": "nigelaukland",
+  "version": "1.0.0",
+  "description": "nigelaukland.com, by Nigel Aukland",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nigelaukland/nigelaukland.git"
+  },
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nigel Aukland",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
