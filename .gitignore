@@ -1,0 +1,13 @@
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# keys
+bin/
+
+# installable modules (covered by package.json)
+node_modules/
+
+# backup files
+bkp__*
